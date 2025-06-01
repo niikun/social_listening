@@ -1,0 +1,23 @@
+# LLM100人に聞きました - 必要ライブラリ
+
+# Core dependencies（必須）
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+plotly>=5.15.0
+
+# OpenAI and tokenization（LLM機能用）
+openai>=1.0.0
+tiktoken>=0.5.0
+
+# Web search（検索機能）- DuckDuckGo
+duckduckgo-search>=3.9.0
+
+# Data processing
+requests>=2.31.0
+
+# Optional dependencies（オプション）
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+# wordcloud>=1.9.0
+# mecab-python3>=1.0.0

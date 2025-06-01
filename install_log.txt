@@ -1,0 +1,17 @@
+LLM100人に聞きました インストールログ
+実行日時: 2025-06-01 12:24:53
+Python: 3.12.1
+OS: Linux 6.8.0-1027-azure
+成功: 10/10
+
+詳細:
+✅ Streamlit
+✅ Pandas
+✅ NumPy
+✅ Plotly
+✅ Matplotlib
+✅ OpenAI
+✅ Tiktoken
+✅ DuckDuckGo Search
+✅ Requests
+✅ ReportLab (PDF出力)
